@@ -14,13 +14,8 @@ monster hunter portable 2ndG hd project.
 
 ## To-do list:
 - [ ] all armors
-- [ ] all weapons
 - maps.
-- [ ] Snowy Mountains
-- [ ] Snowy Mountains peak
-- [ ] Jungle/old
 - [ ] Desert/old
-- [ ] Swamp/old
 - [ ] Volcano/old
 - [ ] Battleground
 - [ ] Forest & Hills
